@@ -1,3 +1,3 @@
 # testrepo
-test : Edit
-Om Shri Rinmachan Ganpatey Namah!
+
+Om Shri Rinamochan Ganpatey Namah!
